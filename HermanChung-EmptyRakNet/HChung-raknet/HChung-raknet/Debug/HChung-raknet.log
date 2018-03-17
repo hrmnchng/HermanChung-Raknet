@@ -1,4 +1,5 @@
 ﻿  Main.cpp
-c:\users\herman\documents\github\hermanchung-raknet\hermanchung-emptyraknet\hchung-raknet\hchung-raknet\main.cpp(148): warning C4477: 'printf' : format string '%I64u' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'RakNet::RakNetGUID'
+c:\users\herman\documents\github\hermanchung-raknet\hermanchung-emptyraknet\hchung-raknet\hchung-raknet\main.cpp(795): warning C4477: 'printf' : format string '%I64u' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'RakNet::RakNetGUID'
+c:\users\herman\documents\github\hermanchung-raknet\hermanchung-emptyraknet\hchung-raknet\hchung-raknet\main.cpp(984): warning C4101: 'statinput': unreferenced local variable
   HChung-raknet.vcxproj -> C:\Users\herman\Documents\GitHub\HermanChung-Raknet\HermanChung-EmptyRakNet\HChung-raknet\Debug\HChung-raknet.exe
   HChung-raknet.vcxproj -> C:\Users\herman\Documents\GitHub\HermanChung-Raknet\HermanChung-EmptyRakNet\HChung-raknet\Debug\HChung-raknet.pdb (Partial PDB)
